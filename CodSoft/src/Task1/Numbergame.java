@@ -7,7 +7,7 @@ public class Numbergame {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
         
-       
+        
         int maxRange = 100;
         
         int randomNumber = random.nextInt(maxRange ) ;
